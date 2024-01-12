@@ -1,0 +1,7 @@
+@inproceedings{REPO278,
+    author = "Wang, Hanyang and Li, Bo and Wu, Shuang and Shen, Siyuan and Liu, Feng and Ding, Shouhong and Zhou, Aimin",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "17958--17968",
+    title = "{Rethinking the Learning Paradigm for Dynamic Facial Expression Recognition}",
+    year = "2023"
+}
