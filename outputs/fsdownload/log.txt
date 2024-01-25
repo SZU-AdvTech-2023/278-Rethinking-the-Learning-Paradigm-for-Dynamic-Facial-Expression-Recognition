@@ -1,0 +1,1290 @@
+********************0********************
+
+Epoch 0 Train	: WA:19.55%, 	UA:14.70%, 	loss:1.8932
+                   Epoch 0 Test	: WA:22.81%, 	UA:14.29%, 	loss:1.8119
+                   Epoch 0 Best	: WA:22.81%, 	UA:14.29%
+                   Epoch 0 Time	: 461.8s
+
+Confusion Matrix:
+hap	0	0	489	0	0	0	0
+sad	0	0	379	0	0	0	0
+neu	0	0	534	0	0	0	0
+ang	0	0	435	0	0	0	0
+sur	0	0	294	0	0	0	0
+dis	0	0	29	0	0	0	0
+fea	0	0	181	0	0	0	0
+	hap	sad	neu	ang	sur	dis	fea
+
+********************1********************
+
+Epoch 1 Train	: WA:34.73%, 	UA:24.47%, 	loss:1.6963
+                   Epoch 1 Test	: WA:49.94%, 	UA:39.56%, 	loss:1.4562
+                   Epoch 1 Best	: WA:49.94%, 	UA:39.56%
+                   Epoch 1 Time	: 458.3s
+
+Confusion Matrix:
+hap	346	40	50	50	3	0	0
+sad	59	96	137	34	53	0	0
+neu	21	51	252	71	139	0	0
+ang	13	9	98	253	62	0	0
+sur	3	4	46	19	222	0	0
+dis	0	3	16	4	6	0	0
+fea	3	13	43	45	77	0	0
+	hap	sad	neu	ang	sur	dis	fea
+
+********************2********************
+
+Epoch 2 Train	: WA:47.71%, 	UA:36.37%, 	loss:1.4908
+                   Epoch 2 Test	: WA:57.41%, 	UA:43.81%, 	loss:1.3158
+                   Epoch 2 Best	: WA:57.41%, 	UA:43.81%
+                   Epoch 2 Time	: 468.4s
+
+Confusion Matrix:
+hap	414	17	24	34	0	0	0
+sad	64	156	112	33	10	0	4
+neu	46	40	337	91	20	0	0
+ang	23	10	96	292	11	0	3
+sur	6	15	104	28	139	0	2
+dis	0	4	17	5	3	0	0
+fea	6	19	48	41	61	0	6
+	hap	sad	neu	ang	sur	dis	fea
+
+********************3********************
+
+Epoch 3 Train	: WA:52.68%, 	UA:41.14%, 	loss:1.4020
+                   Epoch 3 Test	: WA:56.56%, 	UA:45.13%, 	loss:1.3280
+                   Epoch 3 Best	: WA:57.41%, 	UA:45.13%
+                   Epoch 3 Time	: 468.7s
+
+Confusion Matrix:
+hap	454	24	8	1	2	0	0
+sad	57	232	59	4	24	0	3
+neu	86	91	253	26	75	0	3
+ang	76	57	88	163	41	0	10
+sur	9	26	36	4	215	0	4
+dis	5	6	9	2	7	0	0
+fea	8	41	21	14	90	0	7
+	hap	sad	neu	ang	sur	dis	fea
+
+********************4********************
+
+Epoch 4 Train	: WA:54.45%, 	UA:42.92%, 	loss:1.3648
+                   Epoch 4 Test	: WA:61.09%, 	UA:49.43%, 	loss:1.2460
+                   Epoch 4 Best	: WA:61.09%, 	UA:49.43%
+                   Epoch 4 Time	: 468.6s
+
+Confusion Matrix:
+hap	431	14	31	10	0	0	3
+sad	46	156	122	24	7	0	24
+neu	30	30	363	54	49	0	8
+ang	22	5	104	261	17	0	26
+sur	5	10	91	8	152	0	28
+dis	1	1	16	2	7	0	2
+fea	2	14	39	18	41	0	67
+	hap	sad	neu	ang	sur	dis	fea
+
+********************5********************
+
+Epoch 5 Train	: WA:56.29%, 	UA:44.59%, 	loss:1.3390
+                   Epoch 5 Test	: WA:59.97%, 	UA:48.80%, 	loss:1.2658
+                   Epoch 5 Best	: WA:61.09%, 	UA:49.43%
+                   Epoch 5 Time	: 465.2s
+
+********************6********************
+
+Epoch 6 Train	: WA:58.15%, 	UA:46.34%, 	loss:1.3120
+                   Epoch 6 Test	: WA:62.15%, 	UA:48.51%, 	loss:1.2225
+                   Epoch 6 Best	: WA:62.15%, 	UA:49.43%
+                   Epoch 6 Time	: 467.6s
+
+Confusion Matrix:
+hap	369	42	46	32	0	0	0
+sad	15	210	122	21	3	0	8
+neu	8	40	410	51	23	0	2
+ang	7	11	110	289	15	0	3
+sur	1	5	106	22	152	0	8
+dis	0	3	21	4	1	0	0
+fea	4	18	45	36	53	0	25
+	hap	sad	neu	ang	sur	dis	fea
+
+********************7********************
+
+Epoch 7 Train	: WA:58.62%, 	UA:46.58%, 	loss:1.2923
+                   Epoch 7 Test	: WA:52.16%, 	UA:43.38%, 	loss:1.4304
+                   Epoch 7 Best	: WA:62.15%, 	UA:49.43%
+                   Epoch 7 Time	: 462.2s
+
+********************8********************
+
+Epoch 8 Train	: WA:59.29%, 	UA:47.43%, 	loss:1.2859
+                   Epoch 8 Test	: WA:60.91%, 	UA:47.06%, 	loss:1.2504
+                   Epoch 8 Best	: WA:62.15%, 	UA:49.43%
+                   Epoch 8 Time	: 464.6s
+
+********************9********************
+
+Epoch 9 Train	: WA:60.01%, 	UA:48.09%, 	loss:1.2778
+                   Epoch 9 Test	: WA:61.90%, 	UA:49.29%, 	loss:1.2174
+                   Epoch 9 Best	: WA:62.15%, 	UA:49.43%
+                   Epoch 9 Time	: 465.3s
+
+********************10********************
+
+Epoch 10 Train	: WA:59.16%, 	UA:47.48%, 	loss:1.2694
+                   Epoch 10 Test	: WA:63.31%, 	UA:52.33%, 	loss:1.1973
+                   Epoch 10 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 10 Time	: 467.3s
+
+Confusion Matrix:
+hap	405	21	20	35	6	0	2
+sad	20	216	68	42	21	0	12
+neu	19	51	250	116	87	0	11
+ang	12	13	26	346	29	0	9
+sur	3	8	28	24	218	0	13
+dis	0	2	13	7	5	0	2
+fea	4	18	20	25	67	0	47
+	hap	sad	neu	ang	sur	dis	fea
+
+********************11********************
+
+Epoch 11 Train	: WA:60.50%, 	UA:48.52%, 	loss:1.2576
+                   Epoch 11 Test	: WA:61.73%, 	UA:50.90%, 	loss:1.2350
+                   Epoch 11 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 11 Time	: 464.8s
+
+********************12********************
+
+Epoch 12 Train	: WA:61.10%, 	UA:48.82%, 	loss:1.2498
+                   Epoch 12 Test	: WA:61.81%, 	UA:50.84%, 	loss:1.2299
+                   Epoch 12 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 12 Time	: 462.4s
+
+********************13********************
+
+Epoch 13 Train	: WA:61.28%, 	UA:49.24%, 	loss:1.2472
+                   Epoch 13 Test	: WA:61.13%, 	UA:50.43%, 	loss:1.2311
+                   Epoch 13 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 13 Time	: 460.0s
+
+********************14********************
+
+Epoch 14 Train	: WA:61.63%, 	UA:49.51%, 	loss:1.2397
+                   Epoch 14 Test	: WA:61.81%, 	UA:51.24%, 	loss:1.2391
+                   Epoch 14 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 14 Time	: 460.9s
+
+********************15********************
+
+Epoch 15 Train	: WA:61.71%, 	UA:49.48%, 	loss:1.2348
+                   Epoch 15 Test	: WA:62.20%, 	UA:49.60%, 	loss:1.2407
+                   Epoch 15 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 15 Time	: 464.5s
+
+********************16********************
+
+Epoch 16 Train	: WA:61.82%, 	UA:49.73%, 	loss:1.2367
+                   Epoch 16 Test	: WA:61.43%, 	UA:47.47%, 	loss:1.2573
+                   Epoch 16 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 16 Time	: 463.0s
+
+********************17********************
+
+Epoch 17 Train	: WA:62.04%, 	UA:49.96%, 	loss:1.2238
+                   Epoch 17 Test	: WA:61.68%, 	UA:51.05%, 	loss:1.2439
+                   Epoch 17 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 17 Time	: 462.4s
+
+********************18********************
+
+Epoch 18 Train	: WA:61.93%, 	UA:49.86%, 	loss:1.2330
+                   Epoch 18 Test	: WA:60.19%, 	UA:49.09%, 	loss:1.3401
+                   Epoch 18 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 18 Time	: 465.3s
+
+********************19********************
+
+Epoch 19 Train	: WA:61.08%, 	UA:48.96%, 	loss:1.2396
+                   Epoch 19 Test	: WA:56.04%, 	UA:47.61%, 	loss:1.3422
+                   Epoch 19 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 19 Time	: 459.7s
+
+********************20********************
+
+Epoch 20 Train	: WA:62.61%, 	UA:50.43%, 	loss:1.2203
+                   Epoch 20 Test	: WA:62.79%, 	UA:51.34%, 	loss:1.2158
+                   Epoch 20 Best	: WA:63.31%, 	UA:52.33%
+                   Epoch 20 Time	: 460.8s
+
+********************21********************
+
+Epoch 21 Train	: WA:63.48%, 	UA:51.07%, 	loss:1.2014
+                   Epoch 21 Test	: WA:64.72%, 	UA:53.48%, 	loss:1.1773
+                   Epoch 21 Best	: WA:64.72%, 	UA:53.48%
+                   Epoch 21 Time	: 467.6s
+
+Confusion Matrix:
+hap	418	17	13	28	3	0	10
+sad	14	215	82	30	15	0	23
+neu	21	27	300	120	47	0	19
+ang	13	3	34	342	14	0	29
+sur	7	4	49	31	166	0	37
+dis	0	2	17	2	4	0	4
+fea	3	15	23	24	42	0	74
+	hap	sad	neu	ang	sur	dis	fea
+
+********************22********************
+
+Epoch 22 Train	: WA:63.06%, 	UA:50.82%, 	loss:1.2040
+                   Epoch 22 Test	: WA:63.31%, 	UA:50.37%, 	loss:1.2342
+                   Epoch 22 Best	: WA:64.72%, 	UA:53.48%
+                   Epoch 22 Time	: 462.5s
+
+********************23********************
+
+Epoch 23 Train	: WA:63.85%, 	UA:51.84%, 	loss:1.1865
+                   Epoch 23 Test	: WA:59.12%, 	UA:46.26%, 	loss:1.2891
+                   Epoch 23 Best	: WA:64.72%, 	UA:53.48%
+                   Epoch 23 Time	: 462.2s
+
+********************24********************
+
+Epoch 24 Train	: WA:64.36%, 	UA:52.16%, 	loss:1.1811
+                   Epoch 24 Test	: WA:61.30%, 	UA:51.82%, 	loss:1.2410
+                   Epoch 24 Best	: WA:64.72%, 	UA:53.48%
+                   Epoch 24 Time	: 462.5s
+
+********************25********************
+
+Epoch 25 Train	: WA:65.82%, 	UA:53.23%, 	loss:1.1520
+                   Epoch 25 Test	: WA:65.31%, 	UA:53.64%, 	loss:1.1703
+                   Epoch 25 Best	: WA:65.31%, 	UA:53.64%
+                   Epoch 25 Time	: 465.8s
+
+Confusion Matrix:
+hap	420	16	19	30	1	0	3
+sad	15	193	109	23	23	0	16
+neu	26	13	333	90	57	0	15
+ang	13	10	48	323	24	0	17
+sur	5	0	44	19	196	0	30
+dis	0	4	17	3	2	0	3
+fea	5	15	30	18	49	0	64
+	hap	sad	neu	ang	sur	dis	fea
+
+********************26********************
+
+Epoch 26 Train	: WA:66.14%, 	UA:53.58%, 	loss:1.1453
+                   Epoch 26 Test	: WA:65.23%, 	UA:53.94%, 	loss:1.1787
+                   Epoch 26 Best	: WA:65.31%, 	UA:53.94%
+                   Epoch 26 Time	: 464.5s
+
+Confusion Matrix:
+hap	414	34	15	24	1	0	1
+sad	7	298	49	10	6	0	9
+neu	27	101	307	46	40	0	13
+ang	6	49	76	268	26	0	10
+sur	2	30	48	10	176	0	28
+dis	1	8	13	2	2	0	3
+fea	1	32	30	15	39	0	64
+	hap	sad	neu	ang	sur	dis	fea
+
+********************27********************
+
+Epoch 27 Train	: WA:65.49%, 	UA:53.05%, 	loss:1.1536
+                   Epoch 27 Test	: WA:64.46%, 	UA:50.28%, 	loss:1.2135
+                   Epoch 27 Best	: WA:65.31%, 	UA:53.94%
+                   Epoch 27 Time	: 461.9s
+
+********************28********************
+
+Epoch 28 Train	: WA:66.50%, 	UA:54.31%, 	loss:1.1490
+                   Epoch 28 Test	: WA:65.70%, 	UA:54.02%, 	loss:1.1590
+                   Epoch 28 Best	: WA:65.70%, 	UA:54.02%
+                   Epoch 28 Time	: 465.9s
+
+Confusion Matrix:
+hap	434	12	17	25	0	0	1
+sad	18	249	71	18	11	0	12
+neu	31	53	313	72	46	0	19
+ang	9	29	62	294	21	0	20
+sur	3	12	42	17	186	0	34
+dis	2	3	15	4	3	0	2
+fea	7	19	22	19	52	0	62
+	hap	sad	neu	ang	sur	dis	fea
+
+********************29********************
+
+Epoch 29 Train	: WA:66.48%, 	UA:54.18%, 	loss:1.1377
+                   Epoch 29 Test	: WA:64.80%, 	UA:50.39%, 	loss:1.2641
+                   Epoch 29 Best	: WA:65.70%, 	UA:54.02%
+                   Epoch 29 Time	: 461.1s
+
+********************30********************
+
+Epoch 30 Train	: WA:67.16%, 	UA:54.76%, 	loss:1.1304
+                   Epoch 30 Test	: WA:66.34%, 	UA:53.26%, 	loss:1.1566
+                   Epoch 30 Best	: WA:66.34%, 	UA:54.02%
+                   Epoch 30 Time	: 467.2s
+
+Confusion Matrix:
+hap	450	7	21	9	1	0	1
+sad	27	226	89	22	5	0	10
+neu	41	28	366	59	35	0	5
+ang	23	16	72	292	20	0	12
+sur	9	5	65	16	167	0	32
+dis	1	7	16	3	1	0	1
+fea	9	23	34	20	43	0	52
+	hap	sad	neu	ang	sur	dis	fea
+
+********************31********************
+
+Epoch 31 Train	: WA:68.03%, 	UA:55.60%, 	loss:1.1095
+                   Epoch 31 Test	: WA:63.61%, 	UA:53.98%, 	loss:1.2404
+                   Epoch 31 Best	: WA:66.34%, 	UA:54.02%
+                   Epoch 31 Time	: 462.3s
+
+********************32********************
+
+Epoch 32 Train	: WA:67.94%, 	UA:55.46%, 	loss:1.1111
+                   Epoch 32 Test	: WA:65.61%, 	UA:54.05%, 	loss:1.1637
+                   Epoch 32 Best	: WA:66.34%, 	UA:54.05%
+                   Epoch 32 Time	: 466.6s
+
+Confusion Matrix:
+hap	441	15	12	15	4	0	2
+sad	17	253	63	23	12	0	11
+neu	34	62	261	93	73	0	11
+ang	21	9	34	320	35	1	15
+sur	5	12	22	15	213	0	27
+dis	0	2	12	7	4	0	4
+fea	9	18	16	24	66	0	48
+	hap	sad	neu	ang	sur	dis	fea
+
+********************33********************
+
+Epoch 33 Train	: WA:68.56%, 	UA:55.91%, 	loss:1.1028
+                   Epoch 33 Test	: WA:66.38%, 	UA:53.14%, 	loss:1.1784
+                   Epoch 33 Best	: WA:66.38%, 	UA:54.05%
+                   Epoch 33 Time	: 467.8s
+
+Confusion Matrix:
+hap	419	30	18	18	2	0	2
+sad	10	270	68	13	12	0	6
+neu	11	65	349	55	53	0	1
+ang	10	18	94	288	19	0	6
+sur	3	10	49	18	200	0	14
+dis	0	5	16	4	3	0	1
+fea	6	24	26	29	67	1	28
+	hap	sad	neu	ang	sur	dis	fea
+
+********************34********************
+
+Epoch 34 Train	: WA:68.78%, 	UA:56.06%, 	loss:1.0932
+                   Epoch 34 Test	: WA:63.18%, 	UA:49.86%, 	loss:1.2498
+                   Epoch 34 Best	: WA:66.38%, 	UA:54.05%
+                   Epoch 34 Time	: 465.1s
+
+********************35********************
+
+Epoch 35 Train	: WA:69.29%, 	UA:56.76%, 	loss:1.0852
+                   Epoch 35 Test	: WA:63.65%, 	UA:52.86%, 	loss:1.2733
+                   Epoch 35 Best	: WA:66.38%, 	UA:54.05%
+                   Epoch 35 Time	: 461.1s
+
+********************36********************
+
+Epoch 36 Train	: WA:68.57%, 	UA:56.07%, 	loss:1.0866
+                   Epoch 36 Test	: WA:64.55%, 	UA:55.14%, 	loss:1.2037
+                   Epoch 36 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 36 Time	: 466.0s
+
+Confusion Matrix:
+hap	461	3	7	10	1	0	7
+sad	33	226	51	16	19	0	34
+neu	45	51	285	65	58	0	30
+ang	38	14	41	261	28	1	52
+sur	8	8	30	8	178	0	62
+dis	0	2	16	2	2	1	6
+fea	6	14	19	12	31	0	99
+	hap	sad	neu	ang	sur	dis	fea
+
+********************37********************
+
+Epoch 37 Train	: WA:70.10%, 	UA:58.22%, 	loss:1.0668
+                   Epoch 37 Test	: WA:63.78%, 	UA:51.10%, 	loss:1.2935
+                   Epoch 37 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 37 Time	: 464.5s
+
+********************38********************
+
+Epoch 38 Train	: WA:70.08%, 	UA:58.24%, 	loss:1.0611
+                   Epoch 38 Test	: WA:65.14%, 	UA:54.26%, 	loss:1.2001
+                   Epoch 38 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 38 Time	: 463.1s
+
+********************39********************
+
+Epoch 39 Train	: WA:70.49%, 	UA:58.46%, 	loss:1.0566
+                   Epoch 39 Test	: WA:63.35%, 	UA:51.55%, 	loss:1.2233
+                   Epoch 39 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 39 Time	: 462.9s
+
+********************40********************
+
+Epoch 40 Train	: WA:70.60%, 	UA:58.64%, 	loss:1.0510
+                   Epoch 40 Test	: WA:66.00%, 	UA:52.93%, 	loss:1.1971
+                   Epoch 40 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 40 Time	: 464.2s
+
+********************41********************
+
+Epoch 41 Train	: WA:70.10%, 	UA:58.29%, 	loss:1.0505
+                   Epoch 41 Test	: WA:66.00%, 	UA:54.05%, 	loss:1.2233
+                   Epoch 41 Best	: WA:66.38%, 	UA:55.14%
+                   Epoch 41 Time	: 463.9s
+
+********************42********************
+
+Epoch 42 Train	: WA:71.51%, 	UA:59.73%, 	loss:1.0274
+                   Epoch 42 Test	: WA:66.13%, 	UA:55.59%, 	loss:1.2217
+                   Epoch 42 Best	: WA:66.38%, 	UA:55.59%
+                   Epoch 42 Time	: 465.0s
+
+Confusion Matrix:
+hap	438	14	16	13	3	1	4
+sad	16	223	92	21	13	0	14
+neu	33	21	344	85	31	5	15
+ang	21	9	57	312	14	4	18
+sur	9	6	56	29	163	2	29
+dis	0	3	12	7	2	4	1
+fea	7	15	25	30	40	0	64
+	hap	sad	neu	ang	sur	dis	fea
+
+********************43********************
+
+Epoch 43 Train	: WA:71.49%, 	UA:59.99%, 	loss:1.0235
+                   Epoch 43 Test	: WA:65.57%, 	UA:53.46%, 	loss:1.2154
+                   Epoch 43 Best	: WA:66.38%, 	UA:55.59%
+                   Epoch 43 Time	: 461.3s
+
+********************44********************
+
+Epoch 44 Train	: WA:72.71%, 	UA:62.05%, 	loss:1.0099
+                   Epoch 44 Test	: WA:67.54%, 	UA:54.07%, 	loss:1.2225
+                   Epoch 44 Best	: WA:67.54%, 	UA:55.59%
+                   Epoch 44 Time	: 465.9s
+
+Confusion Matrix:
+hap	419	17	34	14	1	1	3
+sad	9	248	95	12	11	0	4
+neu	11	28	408	60	17	0	10
+ang	8	17	82	288	19	3	18
+sur	5	5	78	14	168	1	23
+dis	0	4	18	4	2	0	1
+fea	4	24	33	17	53	0	50
+	hap	sad	neu	ang	sur	dis	fea
+
+********************45********************
+
+Epoch 45 Train	: WA:72.11%, 	UA:60.90%, 	loss:1.0191
+                   Epoch 45 Test	: WA:66.77%, 	UA:53.23%, 	loss:1.2119
+                   Epoch 45 Best	: WA:67.54%, 	UA:55.59%
+                   Epoch 45 Time	: 461.2s
+
+********************46********************
+
+Epoch 46 Train	: WA:73.29%, 	UA:63.49%, 	loss:0.9964
+                   Epoch 46 Test	: WA:65.95%, 	UA:53.78%, 	loss:1.2001
+                   Epoch 46 Best	: WA:67.54%, 	UA:55.59%
+                   Epoch 46 Time	: 463.9s
+
+********************47********************
+
+Epoch 47 Train	: WA:73.64%, 	UA:63.22%, 	loss:0.9956
+                   Epoch 47 Test	: WA:64.93%, 	UA:55.86%, 	loss:1.2375
+                   Epoch 47 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 47 Time	: 467.9s
+
+Confusion Matrix:
+hap	433	9	25	15	2	1	4
+sad	14	198	84	23	20	10	30
+neu	11	24	318	66	74	17	24
+ang	7	8	57	306	20	13	24
+sur	5	3	36	20	191	1	38
+dis	0	1	15	2	5	5	1
+fea	7	7	17	27	49	5	69
+	hap	sad	neu	ang	sur	dis	fea
+
+********************48********************
+
+Epoch 48 Train	: WA:74.19%, 	UA:64.82%, 	loss:0.9872
+                   Epoch 48 Test	: WA:62.71%, 	UA:52.36%, 	loss:1.3048
+                   Epoch 48 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 48 Time	: 465.1s
+
+********************49********************
+
+Epoch 49 Train	: WA:74.41%, 	UA:64.64%, 	loss:0.9745
+                   Epoch 49 Test	: WA:65.14%, 	UA:53.11%, 	loss:1.2511
+                   Epoch 49 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 49 Time	: 462.5s
+
+********************50********************
+
+Epoch 50 Train	: WA:74.52%, 	UA:65.17%, 	loss:0.9721
+                   Epoch 50 Test	: WA:65.19%, 	UA:52.75%, 	loss:1.2512
+                   Epoch 50 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 50 Time	: 464.3s
+
+********************51********************
+
+Epoch 51 Train	: WA:75.12%, 	UA:66.26%, 	loss:0.9612
+                   Epoch 51 Test	: WA:65.53%, 	UA:55.15%, 	loss:1.2288
+                   Epoch 51 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 51 Time	: 460.9s
+
+********************52********************
+
+Epoch 52 Train	: WA:75.62%, 	UA:66.66%, 	loss:0.9532
+                   Epoch 52 Test	: WA:65.36%, 	UA:53.54%, 	loss:1.2304
+                   Epoch 52 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 52 Time	: 464.9s
+
+********************53********************
+
+Epoch 53 Train	: WA:76.69%, 	UA:68.27%, 	loss:0.9365
+                   Epoch 53 Test	: WA:65.91%, 	UA:54.34%, 	loss:1.2715
+                   Epoch 53 Best	: WA:67.54%, 	UA:55.86%
+                   Epoch 53 Time	: 463.0s
+
+********************54********************
+
+Epoch 54 Train	: WA:76.33%, 	UA:68.20%, 	loss:0.9377
+                   Epoch 54 Test	: WA:66.55%, 	UA:56.41%, 	loss:1.1971
+                   Epoch 54 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 54 Time	: 466.1s
+
+Confusion Matrix:
+hap	443	13	18	10	2	2	1
+sad	22	233	71	18	12	5	18
+neu	25	43	313	66	47	23	17
+ang	11	6	50	316	27	9	16
+sur	7	5	47	17	174	5	39
+dis	0	3	15	3	5	3	0
+fea	3	16	13	19	48	6	76
+	hap	sad	neu	ang	sur	dis	fea
+
+********************55********************
+
+Epoch 55 Train	: WA:76.90%, 	UA:68.62%, 	loss:0.9320
+                   Epoch 55 Test	: WA:65.87%, 	UA:54.02%, 	loss:1.2595
+                   Epoch 55 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 55 Time	: 461.1s
+
+********************56********************
+
+Epoch 56 Train	: WA:77.25%, 	UA:68.80%, 	loss:0.9181
+                   Epoch 56 Test	: WA:65.57%, 	UA:54.39%, 	loss:1.2551
+                   Epoch 56 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 56 Time	: 464.8s
+
+********************57********************
+
+Epoch 57 Train	: WA:76.37%, 	UA:67.99%, 	loss:0.9333
+                   Epoch 57 Test	: WA:66.81%, 	UA:52.83%, 	loss:1.2504
+                   Epoch 57 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 57 Time	: 463.1s
+
+********************58********************
+
+Epoch 58 Train	: WA:77.46%, 	UA:70.19%, 	loss:0.9122
+                   Epoch 58 Test	: WA:65.23%, 	UA:53.47%, 	loss:1.2548
+                   Epoch 58 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 58 Time	: 464.3s
+
+********************59********************
+
+Epoch 59 Train	: WA:77.77%, 	UA:69.09%, 	loss:0.9112
+                   Epoch 59 Test	: WA:66.34%, 	UA:52.69%, 	loss:1.2640
+                   Epoch 59 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 59 Time	: 465.6s
+
+********************60********************
+
+Epoch 60 Train	: WA:77.91%, 	UA:69.93%, 	loss:0.9066
+                   Epoch 60 Test	: WA:65.27%, 	UA:54.69%, 	loss:1.2273
+                   Epoch 60 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 60 Time	: 463.9s
+
+********************61********************
+
+Epoch 61 Train	: WA:78.32%, 	UA:69.60%, 	loss:0.8944
+                   Epoch 61 Test	: WA:64.50%, 	UA:53.67%, 	loss:1.2783
+                   Epoch 61 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 61 Time	: 461.3s
+
+********************62********************
+
+Epoch 62 Train	: WA:79.39%, 	UA:71.52%, 	loss:0.8812
+                   Epoch 62 Test	: WA:66.25%, 	UA:54.44%, 	loss:1.2527
+                   Epoch 62 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 62 Time	: 462.7s
+
+********************63********************
+
+Epoch 63 Train	: WA:79.21%, 	UA:72.51%, 	loss:0.8757
+                   Epoch 63 Test	: WA:66.94%, 	UA:54.99%, 	loss:1.2110
+                   Epoch 63 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 63 Time	: 465.4s
+
+********************64********************
+
+Epoch 64 Train	: WA:79.60%, 	UA:72.84%, 	loss:0.8747
+                   Epoch 64 Test	: WA:67.28%, 	UA:53.81%, 	loss:1.2354
+                   Epoch 64 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 64 Time	: 465.4s
+
+********************65********************
+
+Epoch 65 Train	: WA:79.91%, 	UA:72.70%, 	loss:0.8640
+                   Epoch 65 Test	: WA:66.38%, 	UA:55.20%, 	loss:1.2293
+                   Epoch 65 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 65 Time	: 469.6s
+
+********************66********************
+
+Epoch 66 Train	: WA:79.61%, 	UA:73.43%, 	loss:0.8639
+                   Epoch 66 Test	: WA:66.30%, 	UA:54.94%, 	loss:1.2526
+                   Epoch 66 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 66 Time	: 464.9s
+
+********************67********************
+
+Epoch 67 Train	: WA:80.38%, 	UA:73.07%, 	loss:0.8508
+                   Epoch 67 Test	: WA:66.13%, 	UA:52.10%, 	loss:1.3182
+                   Epoch 67 Best	: WA:67.54%, 	UA:56.41%
+                   Epoch 67 Time	: 462.7s
+
+********************68********************
+
+Epoch 68 Train	: WA:80.53%, 	UA:74.25%, 	loss:0.8538
+                   Epoch 68 Test	: WA:67.79%, 	UA:56.31%, 	loss:1.2230
+                   Epoch 68 Best	: WA:67.79%, 	UA:56.41%
+                   Epoch 68 Time	: 461.6s
+
+Confusion Matrix:
+hap	433	11	32	11	1	0	1
+sad	8	247	81	21	9	3	10
+neu	16	36	383	48	31	11	9
+ang	14	13	81	288	21	7	11
+sur	6	7	60	19	172	5	25
+dis	0	4	17	3	0	3	2
+fea	2	25	19	21	47	6	61
+	hap	sad	neu	ang	sur	dis	fea
+
+********************69********************
+
+Epoch 69 Train	: WA:80.65%, 	UA:74.19%, 	loss:0.8464
+                   Epoch 69 Test	: WA:62.92%, 	UA:55.24%, 	loss:1.3312
+                   Epoch 69 Best	: WA:67.79%, 	UA:56.41%
+                   Epoch 69 Time	: 463.8s
+
+********************70********************
+
+Epoch 70 Train	: WA:81.28%, 	UA:75.08%, 	loss:0.8383
+                   Epoch 70 Test	: WA:65.83%, 	UA:56.44%, 	loss:1.2841
+                   Epoch 70 Best	: WA:67.79%, 	UA:56.44%
+                   Epoch 70 Time	: 467.1s
+
+Confusion Matrix:
+hap	417	16	22	21	5	6	2
+sad	14	241	61	19	21	4	19
+neu	13	30	303	84	77	12	15
+ang	12	10	58	312	26	10	7
+sur	2	8	33	15	211	2	23
+dis	0	3	10	2	5	5	4
+fea	4	24	20	23	54	4	52
+	hap	sad	neu	ang	sur	dis	fea
+
+********************71********************
+
+Epoch 71 Train	: WA:80.77%, 	UA:75.20%, 	loss:0.8416
+                   Epoch 71 Test	: WA:64.89%, 	UA:53.68%, 	loss:1.3054
+                   Epoch 71 Best	: WA:67.79%, 	UA:56.44%
+                   Epoch 71 Time	: 464.5s
+
+********************72********************
+
+Epoch 72 Train	: WA:82.01%, 	UA:76.03%, 	loss:0.8221
+                   Epoch 72 Test	: WA:66.25%, 	UA:54.03%, 	loss:1.3136
+                   Epoch 72 Best	: WA:67.79%, 	UA:56.44%
+                   Epoch 72 Time	: 465.6s
+
+********************73********************
+
+Epoch 73 Train	: WA:82.20%, 	UA:76.49%, 	loss:0.8212
+                   Epoch 73 Test	: WA:64.89%, 	UA:52.57%, 	loss:1.2952
+                   Epoch 73 Best	: WA:67.79%, 	UA:56.44%
+                   Epoch 73 Time	: 463.0s
+
+********************74********************
+
+Epoch 74 Train	: WA:82.40%, 	UA:77.99%, 	loss:0.8128
+                   Epoch 74 Test	: WA:65.36%, 	UA:54.68%, 	loss:1.3284
+                   Epoch 74 Best	: WA:67.79%, 	UA:56.44%
+                   Epoch 74 Time	: 463.6s
+
+********************75********************
+
+Epoch 75 Train	: WA:83.12%, 	UA:77.34%, 	loss:0.8005
+                   Epoch 75 Test	: WA:65.87%, 	UA:56.89%, 	loss:1.3006
+                   Epoch 75 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 75 Time	: 467.1s
+
+Confusion Matrix:
+hap	426	20	25	14	2	1	1
+sad	13	262	62	14	9	3	16
+neu	9	67	334	57	43	8	16
+ang	13	24	67	285	30	5	11
+sur	6	19	43	12	184	5	25
+dis	0	4	14	1	2	8	0
+fea	4	37	17	19	61	0	43
+	hap	sad	neu	ang	sur	dis	fea
+
+********************76********************
+
+Epoch 76 Train	: WA:83.09%, 	UA:77.90%, 	loss:0.7981
+                   Epoch 76 Test	: WA:65.40%, 	UA:54.35%, 	loss:1.2906
+                   Epoch 76 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 76 Time	: 464.3s
+
+********************77********************
+
+Epoch 77 Train	: WA:83.54%, 	UA:79.19%, 	loss:0.7926
+                   Epoch 77 Test	: WA:66.42%, 	UA:54.49%, 	loss:1.3130
+                   Epoch 77 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 77 Time	: 464.4s
+
+********************78********************
+
+Epoch 78 Train	: WA:83.21%, 	UA:77.32%, 	loss:0.7930
+                   Epoch 78 Test	: WA:66.72%, 	UA:56.48%, 	loss:1.3037
+                   Epoch 78 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 78 Time	: 464.6s
+
+********************79********************
+
+Epoch 79 Train	: WA:83.86%, 	UA:79.85%, 	loss:0.7840
+                   Epoch 79 Test	: WA:67.19%, 	UA:54.59%, 	loss:1.3145
+                   Epoch 79 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 79 Time	: 463.7s
+
+********************80********************
+
+Epoch 80 Train	: WA:84.18%, 	UA:79.51%, 	loss:0.7725
+                   Epoch 80 Test	: WA:64.84%, 	UA:54.76%, 	loss:1.3271
+                   Epoch 80 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 80 Time	: 465.7s
+
+********************81********************
+
+Epoch 81 Train	: WA:84.41%, 	UA:79.07%, 	loss:0.7706
+                   Epoch 81 Test	: WA:66.08%, 	UA:53.80%, 	loss:1.3076
+                   Epoch 81 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 81 Time	: 465.5s
+
+********************82********************
+
+Epoch 82 Train	: WA:85.03%, 	UA:80.75%, 	loss:0.7594
+                   Epoch 82 Test	: WA:67.19%, 	UA:53.93%, 	loss:1.3385
+                   Epoch 82 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 82 Time	: 463.7s
+
+********************83********************
+
+Epoch 83 Train	: WA:84.94%, 	UA:80.25%, 	loss:0.7577
+                   Epoch 83 Test	: WA:66.08%, 	UA:53.84%, 	loss:1.3421
+                   Epoch 83 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 83 Time	: 459.5s
+
+********************84********************
+
+Epoch 84 Train	: WA:85.24%, 	UA:80.57%, 	loss:0.7545
+                   Epoch 84 Test	: WA:65.23%, 	UA:55.37%, 	loss:1.3545
+                   Epoch 84 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 84 Time	: 463.2s
+
+********************85********************
+
+Epoch 85 Train	: WA:85.22%, 	UA:81.44%, 	loss:0.7586
+                   Epoch 85 Test	: WA:66.81%, 	UA:56.35%, 	loss:1.3108
+                   Epoch 85 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 85 Time	: 461.6s
+
+********************86********************
+
+Epoch 86 Train	: WA:85.23%, 	UA:81.12%, 	loss:0.7505
+                   Epoch 86 Test	: WA:65.74%, 	UA:54.68%, 	loss:1.3524
+                   Epoch 86 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 86 Time	: 462.6s
+
+********************87********************
+
+Epoch 87 Train	: WA:85.64%, 	UA:80.82%, 	loss:0.7470
+                   Epoch 87 Test	: WA:63.73%, 	UA:53.57%, 	loss:1.3643
+                   Epoch 87 Best	: WA:67.79%, 	UA:56.89%
+                   Epoch 87 Time	: 464.3s
+
+********************88********************
+
+Epoch 88 Train	: WA:85.72%, 	UA:81.33%, 	loss:0.7392
+                   Epoch 88 Test	: WA:66.13%, 	UA:57.39%, 	loss:1.3462
+                   Epoch 88 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 88 Time	: 464.3s
+
+Confusion Matrix:
+hap	447	9	12	14	4	0	3
+sad	15	261	56	12	10	1	24
+neu	22	53	286	89	52	8	24
+ang	13	14	47	296	26	5	34
+sur	5	4	42	19	175	2	47
+dis	1	6	10	3	2	5	2
+fea	4	17	16	18	47	1	78
+	hap	sad	neu	ang	sur	dis	fea
+
+********************89********************
+
+Epoch 89 Train	: WA:85.73%, 	UA:83.01%, 	loss:0.7412
+                   Epoch 89 Test	: WA:67.28%, 	UA:55.13%, 	loss:1.3391
+                   Epoch 89 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 89 Time	: 465.3s
+
+********************90********************
+
+Epoch 90 Train	: WA:85.84%, 	UA:81.95%, 	loss:0.7402
+                   Epoch 90 Test	: WA:66.08%, 	UA:55.93%, 	loss:1.3393
+                   Epoch 90 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 90 Time	: 463.9s
+
+********************91********************
+
+Epoch 91 Train	: WA:85.91%, 	UA:82.12%, 	loss:0.7364
+                   Epoch 91 Test	: WA:67.54%, 	UA:56.24%, 	loss:1.3192
+                   Epoch 91 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 91 Time	: 462.5s
+
+********************92********************
+
+Epoch 92 Train	: WA:86.29%, 	UA:82.61%, 	loss:0.7237
+                   Epoch 92 Test	: WA:66.55%, 	UA:55.22%, 	loss:1.3197
+                   Epoch 92 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 92 Time	: 460.1s
+
+********************93********************
+
+Epoch 93 Train	: WA:86.92%, 	UA:83.13%, 	loss:0.7216
+                   Epoch 93 Test	: WA:66.81%, 	UA:55.05%, 	loss:1.3440
+                   Epoch 93 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 93 Time	: 466.0s
+
+********************94********************
+
+Epoch 94 Train	: WA:86.90%, 	UA:83.50%, 	loss:0.7198
+                   Epoch 94 Test	: WA:66.98%, 	UA:54.94%, 	loss:1.3590
+                   Epoch 94 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 94 Time	: 463.3s
+
+********************95********************
+
+Epoch 95 Train	: WA:86.71%, 	UA:82.48%, 	loss:0.7182
+                   Epoch 95 Test	: WA:66.89%, 	UA:55.92%, 	loss:1.3596
+                   Epoch 95 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 95 Time	: 460.4s
+
+********************96********************
+
+Epoch 96 Train	: WA:87.25%, 	UA:84.43%, 	loss:0.7149
+                   Epoch 96 Test	: WA:64.97%, 	UA:54.03%, 	loss:1.3888
+                   Epoch 96 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 96 Time	: 462.3s
+
+********************97********************
+
+Epoch 97 Train	: WA:87.94%, 	UA:84.99%, 	loss:0.7001
+                   Epoch 97 Test	: WA:64.03%, 	UA:53.54%, 	loss:1.3991
+                   Epoch 97 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 97 Time	: 463.5s
+
+********************98********************
+
+Epoch 98 Train	: WA:87.54%, 	UA:84.22%, 	loss:0.7091
+                   Epoch 98 Test	: WA:66.08%, 	UA:55.25%, 	loss:1.3604
+                   Epoch 98 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 98 Time	: 461.6s
+
+********************99********************
+
+Epoch 99 Train	: WA:87.89%, 	UA:84.53%, 	loss:0.6982
+                   Epoch 99 Test	: WA:67.19%, 	UA:56.26%, 	loss:1.3558
+                   Epoch 99 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 99 Time	: 466.5s
+
+********************100********************
+
+Epoch 100 Train	: WA:88.10%, 	UA:84.91%, 	loss:0.6964
+                   Epoch 100 Test	: WA:65.01%, 	UA:54.00%, 	loss:1.3857
+                   Epoch 100 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 100 Time	: 463.1s
+
+********************101********************
+
+Epoch 101 Train	: WA:88.05%, 	UA:85.67%, 	loss:0.6985
+                   Epoch 101 Test	: WA:65.27%, 	UA:54.77%, 	loss:1.3787
+                   Epoch 101 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 101 Time	: 463.5s
+
+********************102********************
+
+Epoch 102 Train	: WA:87.95%, 	UA:84.48%, 	loss:0.6952
+                   Epoch 102 Test	: WA:66.42%, 	UA:54.54%, 	loss:1.3791
+                   Epoch 102 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 102 Time	: 464.6s
+
+********************103********************
+
+Epoch 103 Train	: WA:88.53%, 	UA:86.21%, 	loss:0.6825
+                   Epoch 103 Test	: WA:65.78%, 	UA:56.70%, 	loss:1.3813
+                   Epoch 103 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 103 Time	: 453.4s
+
+********************104********************
+
+Epoch 104 Train	: WA:88.88%, 	UA:85.66%, 	loss:0.6801
+                   Epoch 104 Test	: WA:65.44%, 	UA:54.81%, 	loss:1.4015
+                   Epoch 104 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 104 Time	: 454.4s
+
+********************105********************
+
+Epoch 105 Train	: WA:88.78%, 	UA:85.33%, 	loss:0.6795
+                   Epoch 105 Test	: WA:66.30%, 	UA:55.67%, 	loss:1.3820
+                   Epoch 105 Best	: WA:67.79%, 	UA:57.39%
+                   Epoch 105 Time	: 452.9s
+
+********************106********************
+
+Epoch 106 Train	: WA:88.98%, 	UA:86.46%, 	loss:0.6755
+                   Epoch 106 Test	: WA:65.83%, 	UA:57.47%, 	loss:1.3910
+                   Epoch 106 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 106 Time	: 509.0s
+
+Confusion Matrix:
+hap	454	8	12	11	2	0	2
+sad	15	268	45	12	24	0	15
+neu	40	67	271	69	66	8	13
+ang	17	21	48	281	42	6	20
+sur	5	6	39	12	209	0	23
+dis	1	4	9	1	4	7	3
+fea	5	20	28	16	57	4	51
+	hap	sad	neu	ang	sur	dis	fea
+
+********************107********************
+
+Epoch 107 Train	: WA:89.42%, 	UA:87.88%, 	loss:0.6654
+                   Epoch 107 Test	: WA:66.13%, 	UA:55.39%, 	loss:1.3833
+                   Epoch 107 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 107 Time	: 459.7s
+
+********************108********************
+
+Epoch 108 Train	: WA:89.19%, 	UA:86.66%, 	loss:0.6736
+                   Epoch 108 Test	: WA:66.85%, 	UA:55.29%, 	loss:1.3789
+                   Epoch 108 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 108 Time	: 453.7s
+
+********************109********************
+
+Epoch 109 Train	: WA:89.50%, 	UA:87.33%, 	loss:0.6683
+                   Epoch 109 Test	: WA:66.21%, 	UA:55.18%, 	loss:1.3867
+                   Epoch 109 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 109 Time	: 456.1s
+
+********************110********************
+
+Epoch 110 Train	: WA:89.61%, 	UA:86.84%, 	loss:0.6620
+                   Epoch 110 Test	: WA:65.66%, 	UA:54.88%, 	loss:1.3860
+                   Epoch 110 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 110 Time	: 450.8s
+
+********************111********************
+
+Epoch 111 Train	: WA:89.07%, 	UA:86.00%, 	loss:0.6731
+                   Epoch 111 Test	: WA:66.38%, 	UA:54.26%, 	loss:1.3916
+                   Epoch 111 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 111 Time	: 456.0s
+
+********************112********************
+
+Epoch 112 Train	: WA:89.40%, 	UA:86.41%, 	loss:0.6688
+                   Epoch 112 Test	: WA:65.91%, 	UA:54.76%, 	loss:1.3848
+                   Epoch 112 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 112 Time	: 455.4s
+
+********************113********************
+
+Epoch 113 Train	: WA:89.59%, 	UA:87.46%, 	loss:0.6614
+                   Epoch 113 Test	: WA:66.64%, 	UA:56.51%, 	loss:1.3840
+                   Epoch 113 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 113 Time	: 454.1s
+
+********************114********************
+
+Epoch 114 Train	: WA:89.65%, 	UA:87.23%, 	loss:0.6584
+                   Epoch 114 Test	: WA:65.91%, 	UA:54.95%, 	loss:1.3909
+                   Epoch 114 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 114 Time	: 457.3s
+
+********************115********************
+
+Epoch 115 Train	: WA:89.64%, 	UA:87.63%, 	loss:0.6575
+                   Epoch 115 Test	: WA:66.98%, 	UA:55.40%, 	loss:1.3878
+                   Epoch 115 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 115 Time	: 454.0s
+
+********************116********************
+
+Epoch 116 Train	: WA:90.07%, 	UA:87.37%, 	loss:0.6523
+                   Epoch 116 Test	: WA:66.17%, 	UA:54.81%, 	loss:1.3776
+                   Epoch 116 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 116 Time	: 455.9s
+
+********************117********************
+
+Epoch 117 Train	: WA:90.31%, 	UA:87.93%, 	loss:0.6447
+                   Epoch 117 Test	: WA:66.85%, 	UA:55.55%, 	loss:1.3823
+                   Epoch 117 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 117 Time	: 455.2s
+
+********************118********************
+
+Epoch 118 Train	: WA:90.04%, 	UA:87.97%, 	loss:0.6496
+                   Epoch 118 Test	: WA:66.72%, 	UA:55.95%, 	loss:1.3697
+                   Epoch 118 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 118 Time	: 455.3s
+
+********************119********************
+
+Epoch 119 Train	: WA:90.69%, 	UA:87.65%, 	loss:0.6441
+                   Epoch 119 Test	: WA:66.60%, 	UA:54.22%, 	loss:1.3729
+                   Epoch 119 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 119 Time	: 456.1s
+
+********************120********************
+
+Epoch 120 Train	: WA:90.35%, 	UA:87.85%, 	loss:0.6424
+                   Epoch 120 Test	: WA:66.68%, 	UA:56.42%, 	loss:1.3844
+                   Epoch 120 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 120 Time	: 456.7s
+
+********************121********************
+
+Epoch 121 Train	: WA:90.06%, 	UA:87.42%, 	loss:0.6462
+                   Epoch 121 Test	: WA:66.42%, 	UA:54.43%, 	loss:1.4076
+                   Epoch 121 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 121 Time	: 457.0s
+
+********************122********************
+
+Epoch 122 Train	: WA:90.50%, 	UA:88.53%, 	loss:0.6440
+                   Epoch 122 Test	: WA:66.89%, 	UA:55.98%, 	loss:1.3923
+                   Epoch 122 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 122 Time	: 455.7s
+
+********************123********************
+
+Epoch 123 Train	: WA:90.34%, 	UA:87.59%, 	loss:0.6454
+                   Epoch 123 Test	: WA:67.15%, 	UA:55.36%, 	loss:1.3816
+                   Epoch 123 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 123 Time	: 455.3s
+
+********************124********************
+
+Epoch 124 Train	: WA:90.69%, 	UA:88.44%, 	loss:0.6379
+                   Epoch 124 Test	: WA:66.51%, 	UA:54.93%, 	loss:1.4093
+                   Epoch 124 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 124 Time	: 456.5s
+
+********************125********************
+
+Epoch 125 Train	: WA:90.58%, 	UA:88.70%, 	loss:0.6363
+                   Epoch 125 Test	: WA:66.38%, 	UA:54.38%, 	loss:1.3996
+                   Epoch 125 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 125 Time	: 457.3s
+
+********************126********************
+
+Epoch 126 Train	: WA:90.86%, 	UA:88.04%, 	loss:0.6370
+                   Epoch 126 Test	: WA:66.98%, 	UA:54.91%, 	loss:1.3895
+                   Epoch 126 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 126 Time	: 457.1s
+
+********************127********************
+
+Epoch 127 Train	: WA:90.85%, 	UA:88.15%, 	loss:0.6360
+                   Epoch 127 Test	: WA:66.72%, 	UA:56.79%, 	loss:1.3889
+                   Epoch 127 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 127 Time	: 457.0s
+
+********************128********************
+
+Epoch 128 Train	: WA:91.13%, 	UA:88.69%, 	loss:0.6338
+                   Epoch 128 Test	: WA:64.89%, 	UA:53.60%, 	loss:1.4261
+                   Epoch 128 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 128 Time	: 458.2s
+
+********************129********************
+
+Epoch 129 Train	: WA:90.91%, 	UA:89.61%, 	loss:0.6319
+                   Epoch 129 Test	: WA:66.13%, 	UA:54.37%, 	loss:1.3931
+                   Epoch 129 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 129 Time	: 456.3s
+
+********************130********************
+
+Epoch 130 Train	: WA:91.30%, 	UA:88.75%, 	loss:0.6275
+                   Epoch 130 Test	: WA:67.11%, 	UA:55.63%, 	loss:1.4022
+                   Epoch 130 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 130 Time	: 458.1s
+
+********************131********************
+
+Epoch 131 Train	: WA:90.99%, 	UA:88.45%, 	loss:0.6320
+                   Epoch 131 Test	: WA:66.51%, 	UA:55.46%, 	loss:1.4163
+                   Epoch 131 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 131 Time	: 459.4s
+
+********************132********************
+
+Epoch 132 Train	: WA:91.17%, 	UA:88.66%, 	loss:0.6306
+                   Epoch 132 Test	: WA:66.38%, 	UA:54.97%, 	loss:1.4062
+                   Epoch 132 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 132 Time	: 457.0s
+
+********************133********************
+
+Epoch 133 Train	: WA:91.35%, 	UA:88.49%, 	loss:0.6264
+                   Epoch 133 Test	: WA:66.47%, 	UA:55.86%, 	loss:1.4159
+                   Epoch 133 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 133 Time	: 456.7s
+
+********************134********************
+
+Epoch 134 Train	: WA:91.19%, 	UA:89.05%, 	loss:0.6278
+                   Epoch 134 Test	: WA:66.72%, 	UA:55.72%, 	loss:1.3911
+                   Epoch 134 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 134 Time	: 457.2s
+
+********************135********************
+
+Epoch 135 Train	: WA:91.03%, 	UA:89.13%, 	loss:0.6273
+                   Epoch 135 Test	: WA:66.55%, 	UA:55.34%, 	loss:1.3945
+                   Epoch 135 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 135 Time	: 456.5s
+
+********************136********************
+
+Epoch 136 Train	: WA:91.37%, 	UA:89.23%, 	loss:0.6232
+                   Epoch 136 Test	: WA:67.07%, 	UA:56.60%, 	loss:1.3832
+                   Epoch 136 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 136 Time	: 456.6s
+
+********************137********************
+
+Epoch 137 Train	: WA:91.45%, 	UA:88.88%, 	loss:0.6249
+                   Epoch 137 Test	: WA:66.77%, 	UA:55.43%, 	loss:1.4163
+                   Epoch 137 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 137 Time	: 455.6s
+
+********************138********************
+
+Epoch 138 Train	: WA:91.66%, 	UA:89.08%, 	loss:0.6204
+                   Epoch 138 Test	: WA:66.77%, 	UA:55.97%, 	loss:1.3935
+                   Epoch 138 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 138 Time	: 454.4s
+
+********************139********************
+
+Epoch 139 Train	: WA:91.26%, 	UA:89.26%, 	loss:0.6303
+                   Epoch 139 Test	: WA:66.72%, 	UA:55.12%, 	loss:1.4033
+                   Epoch 139 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 139 Time	: 455.0s
+
+********************140********************
+
+Epoch 140 Train	: WA:91.53%, 	UA:89.04%, 	loss:0.6247
+                   Epoch 140 Test	: WA:67.45%, 	UA:56.35%, 	loss:1.3982
+                   Epoch 140 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 140 Time	: 456.9s
+
+********************141********************
+
+Epoch 141 Train	: WA:91.51%, 	UA:88.70%, 	loss:0.6234
+                   Epoch 141 Test	: WA:67.36%, 	UA:55.67%, 	loss:1.3881
+                   Epoch 141 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 141 Time	: 452.5s
+
+********************142********************
+
+Epoch 142 Train	: WA:91.80%, 	UA:89.63%, 	loss:0.6184
+                   Epoch 142 Test	: WA:66.42%, 	UA:55.39%, 	loss:1.4031
+                   Epoch 142 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 142 Time	: 454.2s
+
+********************143********************
+
+Epoch 143 Train	: WA:91.33%, 	UA:90.24%, 	loss:0.6206
+                   Epoch 143 Test	: WA:66.72%, 	UA:55.00%, 	loss:1.3910
+                   Epoch 143 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 143 Time	: 451.1s
+
+********************144********************
+
+Epoch 144 Train	: WA:91.88%, 	UA:89.61%, 	loss:0.6148
+                   Epoch 144 Test	: WA:66.30%, 	UA:55.23%, 	loss:1.3978
+                   Epoch 144 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 144 Time	: 452.1s
+
+********************145********************
+
+Epoch 145 Train	: WA:91.58%, 	UA:88.91%, 	loss:0.6201
+                   Epoch 145 Test	: WA:65.61%, 	UA:53.78%, 	loss:1.4242
+                   Epoch 145 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 145 Time	: 455.2s
+
+********************146********************
+
+Epoch 146 Train	: WA:91.28%, 	UA:89.00%, 	loss:0.6273
+                   Epoch 146 Test	: WA:67.28%, 	UA:55.73%, 	loss:1.3895
+                   Epoch 146 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 146 Time	: 460.9s
+
+********************147********************
+
+Epoch 147 Train	: WA:91.53%, 	UA:89.58%, 	loss:0.6177
+                   Epoch 147 Test	: WA:67.11%, 	UA:56.72%, 	loss:1.3821
+                   Epoch 147 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 147 Time	: 458.9s
+
+********************148********************
+
+Epoch 148 Train	: WA:91.30%, 	UA:89.26%, 	loss:0.6241
+                   Epoch 148 Test	: WA:66.68%, 	UA:55.27%, 	loss:1.3855
+                   Epoch 148 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 148 Time	: 462.9s
+
+********************149********************
+
+Epoch 149 Train	: WA:91.41%, 	UA:89.25%, 	loss:0.6237
+                   Epoch 149 Test	: WA:66.68%, 	UA:56.36%, 	loss:1.4000
+                   Epoch 149 Best	: WA:67.79%, 	UA:57.47%
+                   Epoch 149 Time	: 455.3s
+
